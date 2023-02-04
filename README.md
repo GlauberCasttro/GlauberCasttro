@@ -26,7 +26,7 @@
   </div>
   
   <br/>
-<p>Sou um cara apaixonado por tecnologia. Sou dev back-end e adoro estudar sobre arquitetura e desenvolvimento de software. Gosto sempre de desenvolver utilizando melhores práticas de programação, clean code e adoro ajudar as pessoas no dia a dia.</p>
+<p>Sou um cara apaixonado por tecnologia. Sou dev back-end e adoro estudar sobre arquitetura e desenvolvimento de software. Gosto sempre de desenvolver utilizando melhores práticas de programação, clean code e adoro ajudar as pessoas no dia a dia. Estou sempre empolgado com novos desafios e sou apaixonado por aprender coisas novas e compartilhar conhecimento com todos.</p>
 
 ## Tecnologias
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaubercasttro&langs_count=8)](https://github.com/glaubercasttro/)
