@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Consumidor", "Consumidor\Consumidor.csproj", "{425BB7CB-AC52-42B1-AE8D-79985FE484C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Produtor", "Produtor\Produtor.csproj", "{7ACB194D-F224-472C-A687-8FA623575E3B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Avros", "Avros", "{4BDD52EB-85A9-492B-96B0-C7AEF9EF89C4}"
+	ProjectSection(SolutionItems) = preProject
+		Avros\curso.avsc = Avros\curso.avsc
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{425BB7CB-AC52-42B1-AE8D-79985FE484C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425BB7CB-AC52-42B1-AE8D-79985FE484C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425BB7CB-AC52-42B1-AE8D-79985FE484C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425BB7CB-AC52-42B1-AE8D-79985FE484C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ACB194D-F224-472C-A687-8FA623575E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACB194D-F224-472C-A687-8FA623575E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACB194D-F224-472C-A687-8FA623575E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACB194D-F224-472C-A687-8FA623575E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36F24DE0-9076-4EB9-8B38-AF30F61928E8}
+	EndGlobalSection
+EndGlobal
