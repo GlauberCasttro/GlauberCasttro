@@ -1,9 +1,13 @@
 ### Olá!!! Eu sou o Glauber Casttro.🖐️
 
 [![Linkedin][linkedin]](https://www.linkedin.com/in/glauber-castro-23661161/)
+
 [![Linkedin][instagram]](https://www.instagram.com/glaubercasttro/)
+
 [instagram]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+
 [linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 ![Glauber GitHub stats](https://github-readme-stats.vercel.app/api?username=glaubercasttro&show_icons=true&theme=dark&layout=compact&card_width=600)
 
 
